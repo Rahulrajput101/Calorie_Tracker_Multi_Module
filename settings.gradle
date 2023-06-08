@@ -10,7 +10,7 @@ rootProject.name = "CaloryTracker"
 include ':app'
 include ':core'
 include ':onboarding'
-include ':onBoarding:onboarding_presentation'
+include ':onboarding:onboarding_presentation'
 include ':onboarding:onboarding_domain'
 include ':tracker'
 include ':tracker:tracker_presentation'
